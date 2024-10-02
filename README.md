@@ -1,7 +1,7 @@
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+[![MasterHead](https://https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sarmad Ilyas</h1>
 <h3 align="center">📊 Data Scientist | M.Phil. in Mathematics | Machine Learning | Deep Learning | Genrative AI</h3>
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarmadilyascoder&label=Profile%20views&color=0e75b6&style=flat" alt="sarmadilyascoder" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sarmadilyas" target="blank"><img src="https://img.shields.io/twitter/follow/sarmadilyas?logo=twitter&style=for-the-badge" alt="sarmadilyas" /></a> </p>
