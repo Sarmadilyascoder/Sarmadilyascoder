@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/sarmadilyas" target="blank"><img src="https://img.shields.io/twitter/follow/sarmadilyas?logo=twitter&style=for-the-badge" alt="sarmadilyas" /></a> </p>
 
-- 🌱 I’m currently learning **🌱 I’m currently learning frameworks and courses in machine learning, advanced NLP techniques, and cloud computing through Codanic and Xeven Solutions Training.**
+- 🌱 I’m currently learning **frameworks and courses in machine learning, advanced NLP techniques, and cloud computing through Codanic and Xeven Solutions Training.**
 
 Connect with me:**
 
 - 📝 I regularly write articles on [sarmadilyas.com](sarmadilyas.com)
 
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Neural Network, Chatbots**
+- 💬 Ask me about **Artificial Intelegence, Machine Learning, Deep Learning, Neural Network, Chatbots**
 
 - 📫 How to reach me **sarmadilyas215@gmail.com**
 
