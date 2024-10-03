@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [(https://naeemkhan0.github.io/portfolio/)](https://naeemkhan0.github.io/portfolio/))
 
-- 📝 I regularly write articles on [(https://medium.com/@naeemkhani2024)](https://medium.com/@naeemkhani2024))
+- 📝 I regularly write articles on [(https://medium.com/@sarmadilyas0092)](https://medium.com/@sarmadilyas0092))
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Neural Network, Chatbots**
 
