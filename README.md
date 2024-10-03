@@ -16,7 +16,7 @@
 
 - 📫 How to reach me sarmadilyas215@gmail.com
 
-- 📄 Know about my experiences [(https://www.linkedin.com/in/naeem-khan-datascientist/)](https://www.linkedin.com/in/naeem-khan-datascientist/)
+- 📄 Know about my experiences [(https://www.linkedin.com/in/sarmad-ilyas-015a49221/)](https://www.linkedin.com/in/sarmad-ilyas-015a49221/)
 
 - 🌱 I’m currently learning frameworks and courses in machine learning, advanced NLP techniques, and cloud computing through [Codanic](https://codanic.com) and [Xeven Solutions Training](https://training.xevensolutions.com).**
 
